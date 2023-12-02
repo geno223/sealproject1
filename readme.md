@@ -1,7 +1,7 @@
 # Holidays
 ### By Eugenio Jimenez
 
-DEPLOYED SITE: [Click Here](https://github.com/geno223/sealproject1)
+DEPLOYED SITE: [https://geno223.github.io/sealproject1/]
 ## Description on Project
 
 A paragraph discussing the idea of your project, the API you are using and desired user experience.
